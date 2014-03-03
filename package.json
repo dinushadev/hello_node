@@ -2,7 +2,6 @@
   "name": "hello_node",
   "version": "0.0.0",
   "description": "test http server",
-  "main": "server.js",
  "engines": {
     "node": "0.8.x",
     "npm": "1.2.x"
