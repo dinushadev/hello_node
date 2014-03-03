@@ -3,11 +3,10 @@
   "version": "0.0.0",
   "description": "test http server",
   "main": "server.js",
-  "scripts": {
-    "test": "test success.. ",
-    "start": "node server.js"
+ "engines": {
+    "node": "0.8.x",
+    "npm": "1.2.x"
   },
-  "repository": "https://github.com/dnsw83/hello_node.git",
   "author": "dinusha",
   "license": "BSD"
 }
