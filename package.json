@@ -1,6 +1,6 @@
 {
   "name": "hello_node",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "test http server",
  "engines": {
     "node": "0.8.x",
