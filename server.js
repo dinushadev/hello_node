@@ -82,6 +82,11 @@ app.get('/loadext',  function index(request, response) {
 
 });
 
+//for helth check
+app.get('/status',  function index(request, response) {
+
+  response.send('OK');
+});
 
 // Configure our HTTP server to respond with Hello World to all requests.
 app.listen(app.get('port'), function() {
